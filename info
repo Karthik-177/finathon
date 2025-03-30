@@ -1,0 +1,87 @@
+Vizco - Automated Financial Report Generation and Analysis
+
+📌 Introduction
+
+Vizco is an AI-powered solution designed to automate financial report generation and analysis, eliminating manual effort and improving accuracy. It integrates with popular accounting software to provide real-time insights and predictive analytics for better financial decision-making.
+
+🛠️ Technologies Used
+
+AI & Machine Learning – For anomaly detection and predictive analytics
+
+Financial APIs – Integration with QuickBooks, SAP, and Tally
+
+Blockchain – Ensuring regulatory compliance and data security
+
+Data Visualization – Interactive dashboards for real-time financial insights
+
+🎯 Features
+
+✅ Automated Financial Report Generation – Eliminates manual effort
+
+📊 Smart Data Extraction – Pulls data from accounting software
+
+🔍 AI-Based Financial Analysis – Detects anomalies and predicts trends
+
+📈 Interactive Dashboards – Real-time visual insights
+
+⚖️ Regulatory Compliance – Adheres to IFRS, GAAP, and financial standards
+
+🚀 Efficiency & Accuracy – Reduces errors and improves transparency
+
+🚀 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/your-username/vizco.git
+
+Navigate to the project directory:
+
+cd vizco
+
+Install dependencies:
+
+pip install -r requirements.txt  # For Python
+npm install  # For Frontend
+
+Run the application:
+
+python main.py  # For backend
+npm start  # For frontend
+
+📸 Screenshots
+
+Add relevant screenshots of the dashboard and reports.
+
+📂 Folder Structure
+
+📦 Vizco
+├── 📂 src
+│   ├── main.py
+│   ├── ...
+├── 📂 docs
+├── 📜 README.md
+├── 📜 requirements.txt
+└── 📜 LICENSE
+
+🤝 Contributors
+
+Your Name - GitHub Profile
+
+Other contributors (if any)
+
+📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+📖 References
+
+This project is based on the problem statement (FIN547) from the Finathon challenge. Read more about the problem statement in the official document: Vizco.pdf
+
+💡 Acknowledgements
+
+Finathon for the problem statement
+
+Various open-source financial APIs and ML libraries
+
+Feel free to customize this README further based on your specific implementation details! 🚀
+
